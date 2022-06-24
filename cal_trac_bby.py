@@ -408,9 +408,6 @@ if __name__ == '__main__':
     
                                           
 
-    # Cal_Trac for 12/29/2021
-    # This has been an incredible journey. I will continue creating better solutions for caltrac. It's going to make
-    # this weight loss process incredibly EFFORTLESS.
 
     todays_combo = sum([chicken_breast_1oz*8,yams_100g*3,
                         thai_chili_sauce,brussels_100g*2,
